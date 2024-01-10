@@ -61,11 +61,13 @@ The Prework includes 6 main chapters:
 💡 Python for Office: Automating Company Tasks ✅ `DONE` <br/>
 <br/>
 
+
 ****
 🤓 TALK 
 📗 LESSON 
 💻 LAB 
 💡 EXTRA
+💪 PROJECT TIME
 
 ✅ `DONE`
 ❌ `TO DO`
