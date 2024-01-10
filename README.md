@@ -35,7 +35,7 @@ The Prework includes 6 main chapters:
 📗 Data Structures: Lists, Dictionaries, Tuples, and Sets ✅ `DONE` <br/>
 📗 Control Flow: Conditional Logic and Loops ✅ `DONE` <br/>
 📗 Working with Files in Python ✅ `DONE` <br/>
-💻 Python ✅ `DONE` <br/> 
+💻 Python (https://github.com/ta-data-lis/prework-labs) ✅ `DONE` <br/> 
 <br/>
 
 ## MySQL
@@ -49,7 +49,7 @@ The Prework includes 6 main chapters:
 📗 Basics of Descriptive Statistics ✅ `DONE` <br/> 
 📗 Basics of Sampling and Distributions ✅ `DONE` <br/>
 📗 Correlation and Regression ✅ `DONE` <br/>
-💻 Statistics Lab ✅ `DONE` <br/> 
+💻 Statistics Lab (https://github.com/ta-data-lis/prework-labs) ✅ `DONE` <br/> 
 <br/>
 
 ## Webinars
